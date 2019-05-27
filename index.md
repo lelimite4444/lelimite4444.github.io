@@ -1,11 +1,11 @@
 ## Education
 
 ---
-<img style="vertical-align:middle" src="images/ntu.jpg" height="30" width="30"/>  M.S., Institue of Networking Engineering, [National Chiao-Tung University](https://www.nctu.edu.tw/) <br />
+<li><img align="absmiddle" src="images/nctu.png" height="30" width="30"/> M.S., Institue of Networking Engineering,<a href="https://www.nctu.edu.tw/">National Chiao-Tung University</a></li><br />
 
-* B.S., [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/) <br />
+<li><img align="absmiddle" src="images/ntu.jpg" height="30" width="30"/> B.S.,<a href="http://www.csie.ntu.edu.tw/">Computer Science and Information Engineering</a>,<a href="http://www.ntu.edu.tw/">National Taiwan University</a></li><br />
 
-* [Taichung First Senior High School](http://www.tcfsh.tc.edu.tw/) <br />
+<li><img align="absmiddle" src="images/tcfsh.jpg" height="30" width="30"/><a href="http://www.tcfsh.tc.edu.tw/">Taichung First Senior High School</a></li><br />
 
 ---
 
