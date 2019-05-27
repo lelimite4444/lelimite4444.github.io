@@ -1,7 +1,7 @@
 title: Hsueh-Ying Lai # your name (or website title) here
 logo: "/images/60933441_1194092394103971_5161725145538101248_n.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a master student at [National Chiao-Tung University](https://www.nctu.edu.tw/)
+  I'm a master student at <a href="https://www.nctu.edu.tw/">National Chiao-Tung University</a>
   <br><br> 
   
 theme: jekyll-theme-minimal
