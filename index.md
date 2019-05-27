@@ -19,7 +19,7 @@
 ## Publications
 
 ---
-* *Hsueh-Ying Lai*, Yi-Hsuan Tsai, Wen-Chen Chiu. [Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence](https://arxiv.org/abs/1905.09265). In International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [Code](https://github.com/lelimite4444/BridgeDepthFlow/)
+* *Hsueh-Ying Lai*, Yi-Hsuan Tsai, Wen-Chen Chiu. [Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence](https://arxiv.org/abs/1905.09265). In International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [[Code]](https://github.com/lelimite4444/BridgeDepthFlow/) [[Project Page]](https://lelimite4444.github.io/BridgeDepthFlow-Project-Page/)
 ![](images/teaser.png)
 
 ---
