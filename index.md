@@ -1,7 +1,7 @@
 ## Education
 
 ---
-* <img align="right" src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjv_YHU_LriAhVBGKYKHTygBdMQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ntu.edu.tw%2Foldchinese%2Fabout%2Femblem.htm&psig=AOvVaw1J3DMXGcGcB_qPfepVeVtE&ust=1559021190570355" />M.S., Institue of Networking Engineering, [National Chiao-Tung University](https://www.nctu.edu.tw/) <br />
+<img style="vertical-align:middle" src="images/ntu.jpg" height="30" width="30"/>  M.S., Institue of Networking Engineering, [National Chiao-Tung University](https://www.nctu.edu.tw/) <br />
 
 * B.S., [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/) <br />
 
