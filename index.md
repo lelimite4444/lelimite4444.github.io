@@ -7,7 +7,6 @@
 
 <img align="absmiddle" src="images/tcfsh.jpg" height="30" width="30"/> <a href="http://www.tcfsh.tc.edu.tw/">Taichung First Senior High School</a>
 
----
 
 ## Experiences
 
@@ -16,7 +15,6 @@
 * Teaching Assistant, Machine Learning, NCTU, Fall 2018
 * Software Engineer Intern, DiQi Taiwan, Jul. 2015 - Oct. 2015
 
----
 
 ## Publications
 
