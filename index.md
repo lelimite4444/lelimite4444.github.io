@@ -1,35 +1,25 @@
-## Portfolio
+## Education
 
 ---
+* M.S., Institue of Networking Engineering, [National Chiao-Tung University](https://www.nctu.edu.tw/) <br />
 
-### Category Name 1 
+* B.S., [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/) <br />
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+* [Taichung First Senior High School](http://www.tcfsh.tc.edu.tw/) <br />
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+## Experiences
 
 ---
+* Teaching Assistant, Computer Vision, NCTU, Spring 2019
+* Teaching Assistant, Machine Learning, NCTU, Fall 2018
+* Software Engineer Intern, DiQi Taiwan, Jul. 2015 - Oct. 2015
+---
 
+## Publications
 
-
-
+---
+* *Hsueh-Ying Lai*, Yi-Hsuan Tsai, Wen-Chen Chiu. [Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence](https://arxiv.org/abs/1905.09265). In International Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
